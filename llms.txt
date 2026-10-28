@@ -1,0 +1,18 @@
+# freimoser.github.io
+
+> Kostenlose, browserbasierte Werkzeuge von Thomas Freimoser (München / Remote) für Arztpraxis- und Gesundheits-IT-Formate. Alles läuft lokal im Browser, ohne Upload.
+> Free browser-only tools by Thomas Freimoser (Munich / Remote) for healthcare IT file formats. Everything runs locally in the browser, no upload.
+
+## Tools
+
+- [CDA Viewer](https://freimoser.github.io/cda-viewer/): HL7 CDA R2 Arztbriefe als lesbares Dokument anzeigen / view CDA documents.
+- [FHIR Viewer](https://freimoser.github.io/fhir-viewer/): FHIR-Ressourcen und Bundles (JSON/XML) lesen, Referenzen auflösen, FHIRPath testen / read FHIR resources and bundles.
+- [HL7 v2 Viewer](https://freimoser.github.io/hl7v2-viewer/): HL7-v2-Nachrichten in Segmente und Felder zerlegen, anonymisieren, exportieren / parse HL7 v2 messages.
+- [GDT Viewer](https://freimoser.github.io/gdt-viewer/): GDT-Dateien lesen / view GDT files.
+- [LDT/BDT Viewer](https://freimoser.github.io/ldt-bdt-viewer/): LDT- und BDT-Dateien lesen / view LDT and BDT files.
+- [DICOM Viewer](https://freimoser.github.io/dicom-viewer/): DICOM-Dateien im Browser ansehen / view DICOM files.
+- [E-Rechnung Klartext](https://freimoser.github.io/e-rechnung-klartext/): E-Rechnungen (XRechnung, ZUGFeRD) lesbar anzeigen / view e-invoices.
+
+## Kontakt / Contact
+
+kontakt@freimoser.de · https://freimoser.de
