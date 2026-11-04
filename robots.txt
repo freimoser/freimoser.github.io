@@ -2,3 +2,11 @@ User-agent: *
 Allow: /
 
 Sitemap: https://freimoser.github.io/sitemap.xml
+Sitemap: https://freimoser.github.io/cda-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/fhir-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/hl7v2-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/gdt-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/ldt-bdt-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/dicom-viewer/sitemap.xml
+Sitemap: https://freimoser.github.io/e-rechnung-klartext/sitemap.xml
+Sitemap: https://freimoser.github.io/easy-photo-editor/sitemap.xml
