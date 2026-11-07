@@ -13,6 +13,10 @@
 - [DICOM Viewer](https://freimoser.github.io/dicom-viewer/): DICOM-Dateien im Browser ansehen / view DICOM files.
 - [E-Rechnung Klartext](https://freimoser.github.io/e-rechnung-klartext/): E-Rechnungen (XRechnung, ZUGFeRD) lesbar anzeigen / view e-invoices.
 
+## Weitere Projekte
+
+- [Journey Journal](https://freimoser.github.io/journey-journal-web/): Privates Foto- und Video-Tagebuch für eine Körper-Transformation (Android-App) mit deutschem Ratgeber zu Progress-Fotos, Fortschrittsmessung und Datenschutz. Volltext: https://freimoser.github.io/journey-journal-web/llms-full.txt
+
 ## Kontakt / Contact
 
 kontakt@freimoser.de · https://freimoser.de
