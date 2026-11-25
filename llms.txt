@@ -15,6 +15,7 @@
 
 ## Weitere Projekte
 
+- [ICS Editor](https://freimoser.github.io/ics-editor/): ICS-Dateien und Google-Kalender-Exporte im Browser öffnen, bearbeiten, aufteilen (unter 1 MB für den Google-Import) und CSV/Excel in ICS umwandeln – ohne Upload; mit Ratgebern zu Google Kalender / edit, split and convert calendar files for Google Calendar. Volltext: https://freimoser.github.io/ics-editor/llms-full.txt
 - [Journey Journal](https://freimoser.github.io/journey-journal-web/): Privates Foto- und Video-Tagebuch für eine Körper-Transformation (Android-App) mit deutschem Ratgeber zu Progress-Fotos, Fortschrittsmessung und Datenschutz. Volltext: https://freimoser.github.io/journey-journal-web/llms-full.txt
 
 ## Kontakt / Contact
